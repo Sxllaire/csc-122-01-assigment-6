@@ -1,0 +1,18 @@
+Enter the number of elements: 4
+Enter 4 integers:
+Value 1: 10
+Value 2: 20
+Value 3: 30
+Value 4: 40
+
+Array output using array indexing:
+data[0] = 10
+data[1] = 20
+data[2] = 30
+data[3] = 40
+
+Array output using pointer arithmetic:
+*(data + 0) = 10
+*(data + 1) = 20
+*(data + 2) = 30
+*(data + 3) = 40
